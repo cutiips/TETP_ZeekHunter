@@ -1,0 +1,4 @@
+trash/
+.env
+labeled_conn.csv
+model/
